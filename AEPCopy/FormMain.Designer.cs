@@ -129,7 +129,7 @@
 			// 
 			this.splitGraph.Panel2.Controls.Add(this.panelRight);
 			this.splitGraph.Size = new System.Drawing.Size(515, 395);
-			this.splitGraph.SplitterDistance = 281;
+			this.splitGraph.SplitterDistance = 272;
 			this.splitGraph.TabIndex = 2;
 			// 
 			// panelLeft
@@ -138,7 +138,7 @@
 			this.panelLeft.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.panelLeft.Location = new System.Drawing.Point(0, 0);
 			this.panelLeft.Name = "panelLeft";
-			this.panelLeft.Size = new System.Drawing.Size(281, 395);
+			this.panelLeft.Size = new System.Drawing.Size(272, 395);
 			this.panelLeft.TabIndex = 0;
 			// 
 			// chartLeft
@@ -158,7 +158,7 @@
 			series1.Legend = "Legend1";
 			series1.Name = "Series1";
 			this.chartLeft.Series.Add(series1);
-			this.chartLeft.Size = new System.Drawing.Size(256, 329);
+			this.chartLeft.Size = new System.Drawing.Size(247, 329);
 			this.chartLeft.TabIndex = 0;
 			this.chartLeft.Text = "chart1";
 			// 
@@ -168,7 +168,7 @@
 			this.panelRight.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.panelRight.Location = new System.Drawing.Point(0, 0);
 			this.panelRight.Name = "panelRight";
-			this.panelRight.Size = new System.Drawing.Size(230, 395);
+			this.panelRight.Size = new System.Drawing.Size(239, 395);
 			this.panelRight.TabIndex = 0;
 			// 
 			// chartRight
@@ -188,7 +188,7 @@
 			series2.Legend = "Legend1";
 			series2.Name = "Series1";
 			this.chartRight.Series.Add(series2);
-			this.chartRight.Size = new System.Drawing.Size(211, 329);
+			this.chartRight.Size = new System.Drawing.Size(220, 329);
 			this.chartRight.TabIndex = 1;
 			this.chartRight.Text = "chart1";
 			// 
@@ -224,7 +224,6 @@
 			this.lvFileList.MultiSelect = false;
 			this.lvFileList.Name = "lvFileList";
 			this.lvFileList.Size = new System.Drawing.Size(285, 395);
-			this.lvFileList.Sorting = System.Windows.Forms.SortOrder.Descending;
 			this.lvFileList.TabIndex = 0;
 			this.lvFileList.UseCompatibleStateImageBehavior = false;
 			this.lvFileList.View = System.Windows.Forms.View.Details;

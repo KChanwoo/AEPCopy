@@ -1,7 +1,7 @@
 ﻿/// <summary>
 /// ABR 측정 프로그램인 AEP의 가짜 프로그램 버전
 /// 왼쪽 그래프의 경우, 실제 ABR 측정 결과 중 하나
-/// 오른쪽 그래프의 경우, 랜덤 그래프 생성
+/// 오른쪽 그래프의 경우, 실제 데이터 값 및 피크 값 표기
 /// @Author Chanwoo Gwon, Yonsei Univ. Researcher, 2020.05. ~
 /// @Date 2020.09.
 /// </summary>
